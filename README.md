@@ -1,5 +1,9 @@
 # pomodoro-clock
 
+## Todo
+* Remove document.ready() to finish removing jQuery
+* Test and update the code.
+
 # Images
 
 ![][a]
